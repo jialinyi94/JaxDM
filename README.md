@@ -1,2 +1,2 @@
-# JaxOL
-A Jax implementation of online learning algorithms
+# JaxDM
+A Jax implementation of decision making algorithms
